@@ -1,0 +1,31 @@
+{
+  "name": "process-aps",
+  "version": "1.0.0",
+  "description": "An NPM module that gives the os arch, platform and shell info.",
+  "files": [
+    "process.js"
+  ],
+  "keywords": [
+    "os",
+    "arch",
+    "shell",
+    "platform"
+  ],
+  "engines": {
+        "node": ">=12"
+  },
+  "scripts": {
+    "start": "node process.js",
+    "test": "echo 'Error: no test specified' && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lalisfeed/process-aps.git"
+  },
+  "author": "Lali Akhil Raj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lalisfeed/process-aps/issues"
+  },
+  "homepage": "https://github.com/Lalisfeed/process-aps#readme"
+}
